@@ -1,3 +1,4 @@
+#The first 5 numbers of fibonacci sequences.
 def fib(n):
     a, b = 0 , 1
     print(a)
