@@ -1,4 +1,4 @@
-#To chech a number if its even or odd number.
+#To check a number if its even or odd number.
 
 n=int(input("Enter a number :"))
 if n % 2 == 1:
