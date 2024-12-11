@@ -10,7 +10,7 @@ def Multiplication(): #This define the multiplication function
     print("Result:", re)
     return re
 
-def Addition():
+def Addition(): #This define the Additon function
     x = int(input("Enter your First digit: "))
     y = int(input("Enter your Second digit: "))
     re = x + y
