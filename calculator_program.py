@@ -27,7 +27,7 @@ def Subtraction(): #This define the Subtraction function
 def Division(): #This define the Division function.
     x = int(input("Enter your First digit: "))
     y = int(input("Enter your Second digit: "))
-    if y == 0:
+    if y == 0: #checking if y ==0 because zero can not divide anythings
         print("Division by zero is not allowed!")
         return None
     re = x / y
