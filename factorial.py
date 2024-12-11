@@ -1,4 +1,4 @@
-
+# This code test the factorial of a number,whereby user enter a digit from the keyboard
 num = int(input("Enter a number = "))
 if num < 0:
     print("The factorial can not be zero")
