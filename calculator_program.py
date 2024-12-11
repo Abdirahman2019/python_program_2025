@@ -24,7 +24,7 @@ def Subtraction(): #This define the Subtraction function
     print("Result:", re)
     return re
 
-def Division():
+def Division(): #This define the Division function.
     x = int(input("Enter your First digit: "))
     y = int(input("Enter your Second digit: "))
     if y == 0:
