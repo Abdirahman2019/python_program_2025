@@ -1,3 +1,4 @@
+# This code Test if the name type is male or female based on define list.
 print("===================================")
 print("  welcome to Gender base census    ")
 print("===================================")
