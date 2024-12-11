@@ -3,7 +3,7 @@ print("========================================")
 print("        CALCULATOR PROGRAM              ")
 print("========================================\n")
 
-def Multiplication():
+def Multiplication(): #This define the multiplication function
     x = int(input("Enter your First digit: "))
     y = int(input("Enter your Second digit: "))
     re = x * y
