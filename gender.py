@@ -2,8 +2,8 @@ print("===================================")
 print("         welcome to Gender base census    ")
 print("===================================")
 def Gender():
-        male = ["abdirahman","osman","ismail","hassan"]
-        female = ["ayan","rahma","nusra","kaltum","kusey"]
+        male = ["kaka","kamute","mudna","afweyl"]
+        female = ["ugas","jimma","mudee","mukulal","mire"]
         return male  , female
             
 def main():
