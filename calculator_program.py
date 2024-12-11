@@ -1,3 +1,4 @@
+#This program is simple calculator
 print("========================================")
 print("        CALCULATOR PROGRAM              ")
 print("========================================\n")
