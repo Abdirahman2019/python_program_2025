@@ -17,7 +17,7 @@ def Addition(): #This define the Additon function
     print("Result:", re)
     return re
 
-def Subtraction():
+def Subtraction(): #This define the Subtraction function
     x = int(input("Enter your First digit: "))
     y = int(input("Enter your Second digit: "))
     re = x - y
