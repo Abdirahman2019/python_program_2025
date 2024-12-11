@@ -43,7 +43,7 @@ def main():
                4.----Division----
                5.----Exit----
                """)
-        option = int(input("Enter Your option: ")) #This line provide the users to main menu to select number from 1 -5 based on the operation they want to perform.
+        option = int(input("Enter Your option: ")) #This line provide the users to main menu, to select number from 1 -5 based on the operation they want to perform.
         
         if option == 1:
             Multiplication()
