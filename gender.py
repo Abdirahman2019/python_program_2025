@@ -1,11 +1,11 @@
+# This code Test if the name type is male or female based on define list.
 print("===================================")
-print("         welcome to Gender base census    ")
+print("  welcome to Gender base census    ")
 print("===================================")
 def Gender():
         male = ["kaka","kamute","mudna","afweyl"]
         female = ["ugas","jimma","mudee","mukulal","mire"]
-        return male  , female
-            
+        return male  , female     
 def main():
     male, female =Gender()
     while True:
