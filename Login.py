@@ -12,6 +12,11 @@ def main_page():
        login()   
 def Register():
     print("Welcome to the Registration page")
+    Fname=input("Enter Your First Name")
+    lname=input("Enter Your First Name")
+    ID_No=
+    phone=
+    Gender=
 def welcome_page():
     print("WELCOME PAGE!!!")
 def login():
