@@ -13,7 +13,7 @@ def main_page():
 def Register():
     print("Welcome to the Registration page")
     Fname=input("Enter Your First Name")
-    lname=input("Enter Your First Name")
+    lname=input("Enter Your Last Name")
     ID_No=
     phone=
     Gender=
