@@ -11,7 +11,9 @@ def main_page():
     elif option == 2:
        login()   
 def Register():
-    print("Welcome to the Registration page")
+    print("***********************************")
+    print("   WELCOME TO REGISTRATION PAGE     ")
+    print("***********************************")
     Fname=input("Enter Your First Name")
     lname=input("Enter Your Last Name")
     ID_No=int(input("Enter Your ID Number"))
