@@ -1,7 +1,7 @@
 print("***********************************")
 print("          LOGIN                    ")
 print("***********************************")
-def wwelcome_page():
+def welcome_page():
     print("WELCOME PAGE!!!")
 def login():
     while True:
