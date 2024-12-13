@@ -19,6 +19,7 @@ def Register():
     ID_No=int(input("Enter Your ID Number: "))
     phone=int(input("Enter Your Phone Number: "))
     Gender=input("Enter Gender: Male or Female :")
+    print(f"You Names are {Fname} {lname}" )
 def welcome_page():
     print("WELCOME PAGE!!!")
 def login():
