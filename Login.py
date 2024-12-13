@@ -1,6 +1,11 @@
 print("***********************************")
 print("          LOGIN                    ")
 print("***********************************")
+def main_page():
+    option=int(input("""Enter Your option:
+    1.Register:
+    2.Login:
+    """))
 def welcome_page():
     print("WELCOME PAGE!!!")
 def login():
