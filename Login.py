@@ -1,7 +1,7 @@
 print("***********************************")
 print("          LOGIN                    ")
 print("***********************************")
-def main_page():
+def wwelcome_page():
     print("WELCOME PAGE!!!")
 def login():
     while True:
@@ -9,7 +9,7 @@ def login():
         password = input("Enter Your Password: ")
         if username == "admin" and  password == "12345":
             print("You Login successfully")
-            main_page()
+            welcome_page()
             break
         else:
             print("Wrong Username and password!!!")  
